@@ -1,8 +1,30 @@
-# React + Vite
+# Pizza Haven
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Pizza Haven** is a modern and visually appealing web application dedicated to pizza lovers. It allows users to explore a range of pizzas, customize their orders, and enjoy a seamless experience.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Explore a variety of pizza options with detailed descriptions and prices.
+- **Dynamic State Management**:
+  - Powered by **Redux Toolkit** for efficient and centralized state handling.
+- **Advanced Routing with React Router**:
+  - **Loaders**
+  - **Actions**
+- Data fetching and order management using custom fetchers.
+- Responsive design for mobile and desktop devices.
+
+## Technologies Used
+
+- **React**
+- **Redux Toolkit**
+- **React Router**
+- **Vite**
+- **TailwindCSS**
+- **JavaScript**
+- **ESLint/Prettier**
+
+## Future Enhancements
+- Add user authentication.
+- Implement a dynamic cart system.
+- Integrate with a backend API for real-time data.
+
